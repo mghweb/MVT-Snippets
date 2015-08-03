@@ -3,7 +3,7 @@ Miva Template Language Sublime Snippets
 
 Cleaned up and added a few extra snippets for new Miva features (mvt:call, mvt:do, etc..)
 
-***Install instructions***
+__Install Instructions__
 
 Download snippets and place it in your Sublime Text User Package Directory:
 
