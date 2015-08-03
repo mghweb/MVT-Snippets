@@ -5,10 +5,12 @@ Cleaned up and added a few extra snippets for new Miva features (mvt:call, mvt:d
 
 __Install Instructions__
 
-Download snippets and place it in your Sublime Text User Package Directory:
+1. Download the `Snippets` folder.
 
-Ubuntu: ~/.config/sublime-text-*/Packages/User/
+2. Place the folder into your Sublime Text User Package Directory.
 
-Windows: C:\Users\USERNAME\AppData\Roaming\Sublime Text *\Packages\User\
+  a. Ubuntu: ~/.config/sublime-text-*/Packages/User/
+  
+  b. Windows: C:\Users\USERNAME\AppData\Roaming\Sublime Text *\Packages\User\
 
-Restart Sublime
+3. Restart Sublime.
