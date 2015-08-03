@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="toolkit" param="agrpinsert|${1:avail}|${0:Wholesale}" />
+]]></content>
+	<tabTrigger>tk/agrpinsert</tabTrigger>
+	<scope>text.html.mvt</scope>
+</snippet>

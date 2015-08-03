@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="toolkit" param="customer|${1:member}|${0:membership}" />
+]]></content>
+	<tabTrigger>tk-customer</tabTrigger>
+	<scope>text.html.mvt</scope>
+</snippet>

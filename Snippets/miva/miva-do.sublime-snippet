@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<mvt:do file="$1" ${2:name="$3"} value="$4" />
+${5:<!-- @@ &mvt:global:MvDO_Error; -->}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mvt:do</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.mvt</scope>
+</snippet>

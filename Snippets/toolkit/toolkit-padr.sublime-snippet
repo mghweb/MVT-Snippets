@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="toolkit" param="padr|${1:csecond}|${2:nsecond}|${3:2}|${0:0}" />
+]]></content>
+	<tabTrigger>tk-padr</tabTrigger>
+	<scope>text.html.mvt</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="toolkit" param="weight|${0:totalweight}" />
+]]></content>
+	<tabTrigger>tk-weight</tabTrigger>
+	<scope>text.html.mvt</scope>
+</snippet>

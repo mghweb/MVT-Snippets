@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="toolkit" param="subtotalorder|${0:ordersubtotal}" />
+]]></content>
+	<tabTrigger>tk-subtotalorder</tabTrigger>
+	<scope>text.html.mvt</scope>
+</snippet>

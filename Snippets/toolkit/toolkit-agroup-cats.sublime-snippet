@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="toolkit" param="agroup-cats|${1:acatcount}|${0:l.settings:agroup:name}" />
+]]></content>
+	<tabTrigger>tk-agroup-cats</tabTrigger>
+	<scope>text.html.mvt</scope>
+</snippet>

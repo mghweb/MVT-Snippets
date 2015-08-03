@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="toolkit" param="alsobought|${0:250}" />
+]]></content>
+	<tabTrigger>tk-alsobought</tabTrigger>
+	<scope>text.html.mvt</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="toolkit" param="currencyformat|${1:formatted_savings}|${0:difference}" />
+]]></content>
+	<tabTrigger>tk-currencyformat</tabTrigger>
+	<scope>text.html.mvt</scope>
+</snippet>

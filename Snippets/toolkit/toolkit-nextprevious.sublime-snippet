@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="toolkit" param="nextprevious|${0:l.all_settings:product:code}" />
+]]></content>
+	<tabTrigger>tk-nextprevious</tabTrigger>
+	<scope>text.html.mvt</scope>
+</snippet>

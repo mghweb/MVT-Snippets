@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="toolkit" param="subtotal|${0:basketsubtotal}" />
+]]></content>
+	<tabTrigger>tk-subtotal</tabTrigger>
+	<scope>text.html.mvt</scope>
+</snippet>

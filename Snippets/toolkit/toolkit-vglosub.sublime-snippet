@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="toolkit" param="vglosub|${1:l.all_settings:product:descrip},${2:%product_name%},${0:l.all_settings:product:name}" />
+]]></content>
+	<tabTrigger>tk-vglosub</tabTrigger>
+	<scope>text.html.mvt</scope>
+</snippet>

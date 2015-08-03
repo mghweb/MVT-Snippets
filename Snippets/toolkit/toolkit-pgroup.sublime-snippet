@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="toolkit" param="pgroup|${0:pcount}" />
+]]></content>
+	<tabTrigger>tk-pgroup</tabTrigger>
+	<scope>text.html.mvt</scope>
+</snippet>

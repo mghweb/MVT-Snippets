@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="toolkit" param="parentcat|${0:pccount}" />
+]]></content>
+	<tabTrigger>tk-parentcat</tabTrigger>
+	<scope>text.html.mvt</scope>
+</snippet>

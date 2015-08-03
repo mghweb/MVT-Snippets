@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="toolkit" param="counter|${1:current_nbr}|${0:g.offset}" />
+]]></content>
+	<tabTrigger>tk-counter</tabTrigger>
+	<scope>text.html.mvt</scope>
+</snippet>

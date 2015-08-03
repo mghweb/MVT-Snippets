@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="toolkit" param="math_subtract|${1:difference}|${2:l.all_settings:product:cost}|${0:l.all_settings:product:price}" />
+]]></content>
+	<tabTrigger>tk-math_subtract</tabTrigger>
+	<scope>text.html.mvt</scope>
+</snippet>

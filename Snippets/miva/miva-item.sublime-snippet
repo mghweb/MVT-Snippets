@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="${1}" ${2:param="${3}"} />
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mvt:item</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.mvt</scope>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<mvt:if expr="g.testing EQ 'true'">
+${1}
+<mvt:else>
+${2}
+</mvt:if>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mvt:testvar</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.mvt</scope>
+</snippet>

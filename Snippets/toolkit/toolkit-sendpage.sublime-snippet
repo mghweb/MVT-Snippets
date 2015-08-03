@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<mvt:item name="toolkit" param="sendpage" />
+]]></content>
+	<tabTrigger>tk-sendpage</tabTrigger>
+	<scope>text.html.mvt</scope>
+</snippet>
