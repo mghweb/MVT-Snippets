@@ -9,7 +9,7 @@ __Install Instructions__
 
 2. Place the folder into your Sublime Text User Package Directory.
 
-  a. Ubuntu: ~/.config/sublime-text-*/Packages/User/
+  a. Mac: ~/Application Support/Sublime Text */Packages/User/
   
   b. Windows: C:\Users\USERNAME\AppData\Roaming\Sublime Text *\Packages\User\
 
