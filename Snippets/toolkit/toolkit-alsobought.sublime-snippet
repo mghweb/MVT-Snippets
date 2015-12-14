@@ -3,5 +3,5 @@
 <mvt:item name="toolkit" param="alsobought|${0:250}" />
 ]]></content>
 	<tabTrigger>tk-alsobought</tabTrigger>
-	<scope>text.html.mvt</scope>
+	<scope>text.html.mvt - source.mvt</scope>
 </snippet>

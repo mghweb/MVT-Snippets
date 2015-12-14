@@ -3,5 +3,5 @@
 <mvt:item name="toolkit" param="productincategory|${1:incatcount}|${0:g.Product_Code}" />
 ]]></content>
 	<tabTrigger>tk-productincategory</tabTrigger>
-	<scope>text.html.mvt</scope>
+	<scope>text.html.mvt - source.mvt</scope>
 </snippet>

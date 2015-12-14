@@ -3,5 +3,5 @@
 <mvt:item name="toolkit" param="breadcrumb|${1:b_count}|${0:g.Category_Code}" />
 ]]></content>
 	<tabTrigger>tk-breadcrumb</tabTrigger>
-	<scope>text.html.mvt</scope>
+	<scope>text.html.mvt - source.mvt</scope>
 </snippet>

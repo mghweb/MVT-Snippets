@@ -3,5 +3,5 @@
 	<mvt:item name="toolkit" param="categorymeta|${1:CODE}|${0:l.all_settings:category:code}" />
 ]]></content>
 	<tabTrigger>tk-categorymeta</tabTrigger>
-	<scope>text.html.mvt</scope>
+	<scope>text.html.mvt - source.mvt</scope>
 </snippet>

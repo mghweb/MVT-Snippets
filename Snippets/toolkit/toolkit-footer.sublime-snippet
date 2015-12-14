@@ -3,5 +3,5 @@
 <mvt:item name="toolkit" param="footer|${0:catfoot}" />
 ]]></content>
 	<tabTrigger>tk-footer</tabTrigger>
-	<scope>text.html.mvt</scope>
+	<scope>text.html.mvt - source.mvt</scope>
 </snippet>

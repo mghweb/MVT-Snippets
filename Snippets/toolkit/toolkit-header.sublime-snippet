@@ -3,5 +3,5 @@
 <mvt:item name="toolkit" param="header|${0:cathead}" />
 ]]></content>
 	<tabTrigger>tk-header</tabTrigger>
-	<scope>text.html.mvt</scope>
+	<scope>text.html.mvt - source.mvt</scope>
 </snippet>

@@ -3,5 +3,5 @@
 <mvt:item name="toolkit" param="subtotalorder|${0:ordersubtotal}" />
 ]]></content>
 	<tabTrigger>tk-subtotalorder</tabTrigger>
-	<scope>text.html.mvt</scope>
+	<scope>text.html.mvt - source.mvt</scope>
 </snippet>

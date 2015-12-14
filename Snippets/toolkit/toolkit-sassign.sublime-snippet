@@ -3,5 +3,5 @@
 <mvt:item name="toolkit" param="sassign|${1:greeting}|${0:Happy Mother\\'s Day}" />
 ]]></content>
 	<tabTrigger>tk-sassign</tabTrigger>
-	<scope>text.html.mvt</scope>
+	<scope>text.html.mvt - source.mvt</scope>
 </snippet>

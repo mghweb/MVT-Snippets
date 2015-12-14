@@ -3,5 +3,5 @@
 <mvt:item name="toolkit" param="logbackin|${0:10}" />
 ]]></content>
 	<tabTrigger>tk-logbackin</tabTrigger>
-	<scope>text.html.mvt</scope>
+	<scope>text.html.mvt - source.mvt</scope>
 </snippet>

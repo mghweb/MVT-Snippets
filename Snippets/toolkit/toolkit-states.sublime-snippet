@@ -3,5 +3,5 @@
 <mvt:item name="toolkit" param="states" />
 ]]></content>
 	<tabTrigger>tk-states</tabTrigger>
-	<scope>text.html.mvt</scope>
+	<scope>text.html.mvt - source.mvt</scope>
 </snippet>

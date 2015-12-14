@@ -3,5 +3,5 @@
 <mvt:item name="toolkit" param="randomall|${1:pcount}|${0:5}" />
 ]]></content>
 	<tabTrigger>tk-randomall</tabTrigger>
-	<scope>text.html.mvt</scope>
+	<scope>text.html.mvt - source.mvt</scope>
 </snippet>

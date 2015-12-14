@@ -3,5 +3,5 @@
 <mvt:item name="toolkit" param="sassign|${1:cat_code}|${0:SPECIALS}" />
 ]]></content>
 	<tabTrigger>tk-randomcat</tabTrigger>
-	<scope>text.html.mvt</scope>
+	<scope>text.html.mvt - source.mvt</scope>
 </snippet>
