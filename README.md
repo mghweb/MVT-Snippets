@@ -3,14 +3,18 @@ Miva Template Language Sublime Snippets
 
 Cleaned up and added a few extra snippets for new Miva features (mvt:call, mvt:do, etc..)
 
-__Install Instructions__
+__Install Instructions__ (via Package Control)
 
-1. Download the `Snippets` folder.
+1. Open the Command Palette.
 
-2. Place the folder into your Sublime Text User Package Directory.
+2. Copy this URL: `https://github.com/mghweb/SublimeMVT_Snippets`
 
-  a. Mac: `~/Application Support/Sublime Text */Packages/User/`
-  
-  b. Windows: `C:\Users\USERNAME\AppData\Roaming\Sublime Text *\Packages\User\`
+3. Type `Package Control: Add Repository` and hit <kbd>Enter</kbd>.
 
-3. Restart Sublime.
+4. Paste in the URL copied in step 2 and hit <kbd>Enter</kbd>.
+
+5. Re-open the Command Palette and type `Package Control: Install Package`.
+
+6. Search for and install `SublimeMVT_Snippets`.
+
+7. Restart Sublime and you're Done!
