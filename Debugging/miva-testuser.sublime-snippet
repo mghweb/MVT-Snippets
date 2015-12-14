@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <mvt:comment> Start Testing Conditional </mvt:comment>
-<mvt:if expr="g.customer:id EQ ${1}">
+<mvt:if expr="g.customer:id EQ ${1:1}">
 
 
 
