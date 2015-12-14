@@ -1,7 +1,13 @@
 <snippet>
 	<content><![CDATA[
-<mvt:if expr="g.customer:id EQ '${1}'">
+<mvt:if expr="g.customer:id EQ ${1}">
+<mvt:comment> Start Testing Conditional </mvt:comment>
+
+
 ${2}
+
+
+<mvt:comment> / end Testing Conditional </mvt:comment>
 <mvt:else>
 ${3}
 </mvt:if>
@@ -9,5 +15,5 @@ ${3}
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>mvt:testuser</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>text.html.mvt</scope>
+	<scope>text.html.mvt - source.mvt</scope>
 </snippet>
