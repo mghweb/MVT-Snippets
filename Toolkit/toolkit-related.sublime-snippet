@@ -3,5 +3,5 @@
 <mvt:item name="toolkit" param="related|${1:pcount}|${0:g.Product_Code}" />
 ]]></content>
 	<tabTrigger>tk-related</tabTrigger>
-	<scope>text.html.mvt - source.mvt</scope>
+	<scope>text.html.mvt - source.mvt - string</scope>
 </snippet>

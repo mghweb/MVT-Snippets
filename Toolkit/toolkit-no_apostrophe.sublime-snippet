@@ -3,5 +3,5 @@
 <mvt:item name="toolkit" param="no_apostrophe|${1:new_descrip2}|${0:new_descrip}" />
 ]]></content>
 	<tabTrigger>tk-no_apostrophe</tabTrigger>
-	<scope>text.html.mvt - source.mvt</scope>
+	<scope>text.html.mvt - source.mvt - string</scope>
 </snippet>

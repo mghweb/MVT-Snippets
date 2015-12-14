@@ -3,5 +3,5 @@
 <mvt:item name="toolkit" param="parentcat|${0:pccount}" />
 ]]></content>
 	<tabTrigger>tk-parentcat</tabTrigger>
-	<scope>text.html.mvt - source.mvt</scope>
+	<scope>text.html.mvt - source.mvt - string</scope>
 </snippet>

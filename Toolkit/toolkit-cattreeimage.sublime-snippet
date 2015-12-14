@@ -3,5 +3,5 @@
 <mvt:item name="toolkit" param="cattreeimage|${1:smallimage}|${0:l.all_settings:parent_category:code}" />
 ]]></content>
 	<tabTrigger>tk-cattreeimage</tabTrigger>
-	<scope>text.html.mvt - source.mvt</scope>
+	<scope>text.html.mvt - source.mvt - string</scope>
 </snippet>

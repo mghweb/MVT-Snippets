@@ -3,5 +3,5 @@
 <mvt:item name="toolkit" param="cxp|${1:pcount}|${0:l.all_settings:sub_category:id}" />
 ]]></content>
 	<tabTrigger>tk-cxp</tabTrigger>
-	<scope>text.html.mvt - source.mvt</scope>
+	<scope>text.html.mvt - source.mvt - string</scope>
 </snippet>

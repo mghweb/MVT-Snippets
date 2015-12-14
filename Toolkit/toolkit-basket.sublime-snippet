@@ -3,5 +3,5 @@
 <mvt:item name="toolkit" param="basket|${0:itemcount}" />
 ]]></content>
 	<tabTrigger>tk-basket</tabTrigger>
-	<scope>text.html.mvt - source.mvt</scope>
+	<scope>text.html.mvt - source.mvt - string</scope>
 </snippet>

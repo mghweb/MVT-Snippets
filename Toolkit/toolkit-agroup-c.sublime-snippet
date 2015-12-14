@@ -3,5 +3,5 @@
 <mvt:item name="toolkit" param="agroup-c|${1:acatcount}|${0:g.Category_Code}" />
 ]]></content>
 	<tabTrigger>tk-agroup-c</tabTrigger>
-	<scope>text.html.mvt - source.mvt</scope>
+	<scope>text.html.mvt - source.mvt - string</scope>
 </snippet>

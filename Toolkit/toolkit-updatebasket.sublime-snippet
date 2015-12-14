@@ -3,5 +3,5 @@
 <mvt:item name="toolkit" param="updatebasket|${1:ship_state}|${0:g.value}" />
 ]]></content>
 	<tabTrigger>tk-updatebasket</tabTrigger>
-	<scope>text.html.mvt - source.mvt</scope>
+	<scope>text.html.mvt - source.mvt - string</scope>
 </snippet>

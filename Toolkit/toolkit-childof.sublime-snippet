@@ -3,5 +3,5 @@
 <mvt:item name="toolkit" param="childof|${1:parentfound}|${0:g.Category_Code}" />
 ]]></content>
 	<tabTrigger>tk-childof</tabTrigger>
-	<scope>text.html.mvt - source.mvt</scope>
+	<scope>text.html.mvt - source.mvt - string</scope>
 </snippet>

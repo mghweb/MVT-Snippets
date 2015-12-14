@@ -3,5 +3,5 @@
 <mvt:item name="toolkit" param="subtotal|${0:basketsubtotal}" />
 ]]></content>
 	<tabTrigger>tk-subtotal</tabTrigger>
-	<scope>text.html.mvt - source.mvt</scope>
+	<scope>text.html.mvt - source.mvt - string</scope>
 </snippet>

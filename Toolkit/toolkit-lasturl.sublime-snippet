@@ -3,5 +3,5 @@
 <mvt:item name="toolkit" param="lasturl|${1:url}|${0:http://www.yourdomain.com/mm5/merchant.mvc}" />
 ]]></content>
 	<tabTrigger>tk-lasturl</tabTrigger>
-	<scope>text.html.mvt - source.mvt</scope>
+	<scope>text.html.mvt - source.mvt - string</scope>
 </snippet>
