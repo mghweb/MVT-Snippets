@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<mvt:assign name="g.DEBUG" value="miva_array_serialize(${1:array})" />
+<mvt:assign name="g.DEBUG" value="miva_array_serialize( ${1:variable} )" />
 <!-- ${2:@@} &mvt:global:DEBUG; -->
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
