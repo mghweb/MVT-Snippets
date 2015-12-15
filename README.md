@@ -5,9 +5,9 @@ Cleaned up and added a few extra snippets for new Miva features (mvt:call, mvt:d
 
 __Install Instructions__ (via Package Control)
 
-1. Open the Command Palette.
+1. Copy this URL: `https://github.com/mghweb/SublimeMVT_Snippets`
 
-2. Copy this URL: `https://github.com/mghweb/SublimeMVT_Snippets`
+2. Open the Command Palette.
 
 3. Type `Package Control: Add Repository` and hit <kbd>Enter</kbd>.
 
