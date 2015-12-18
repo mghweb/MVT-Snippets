@@ -3,7 +3,7 @@
 <mvt:if expr="${1}">
 	${2}
 <mvt:elseif expr="${3}">
-	${4}
+	${0}
 </mvt:if>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

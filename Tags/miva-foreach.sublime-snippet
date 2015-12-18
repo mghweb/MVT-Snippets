@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <mvt:foreach iterator="${1}" array="${2}">
-	${3}
+	${0}
 </mvt:foreach>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
