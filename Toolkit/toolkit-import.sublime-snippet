@@ -3,5 +3,6 @@
 <mvt:item name="toolkit" param="import|${1:megalist}|${2:cust.dat}|${0:crlf}" />
 ]]></content>
 	<tabTrigger>tk-import</tabTrigger>
+	<description>Toolkit</description>
 	<scope>text.html.mvt - source.mvt - string</scope>
 </snippet>

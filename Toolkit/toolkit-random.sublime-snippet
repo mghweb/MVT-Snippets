@@ -3,5 +3,6 @@
 <mvt:item name="toolkit" param="random|${1:nrandom}|${0:100}" />
 ]]></content>
 	<tabTrigger>tk-random</tabTrigger>
+	<description>Toolkit</description>
 	<scope>text.html.mvt - source.mvt - string</scope>
 </snippet>

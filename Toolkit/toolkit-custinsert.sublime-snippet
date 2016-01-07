@@ -3,5 +3,6 @@
 <mvt:item name="toolkit" param="custinsert|${1:taxid}|${0:g.mytax}" />
 ]]></content>
 	<tabTrigger>tk-custinsert</tabTrigger>
+	<description>Toolkit</description>
 	<scope>text.html.mvt - source.mvt - string</scope>
 </snippet>

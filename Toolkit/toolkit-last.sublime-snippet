@@ -3,5 +3,6 @@
 <mvt:item name="toolkit" param="basket|${0:itemcount}" />
 ]]></content>
 	<tabTrigger>tk-last</tabTrigger>
+	<description>Toolkit</description>
 	<scope>text.html.mvt - source.mvt - string</scope>
 </snippet>

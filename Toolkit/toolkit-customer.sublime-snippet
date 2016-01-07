@@ -3,5 +3,6 @@
 <mvt:item name="toolkit" param="customer|${1:member}|${0:membership}" />
 ]]></content>
 	<tabTrigger>tk-customer</tabTrigger>
+	<description>Toolkit</description>
 	<scope>text.html.mvt - source.mvt - string</scope>
 </snippet>

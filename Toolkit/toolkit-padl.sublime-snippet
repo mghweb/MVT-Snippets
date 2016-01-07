@@ -3,5 +3,6 @@
 <mvt:item name="toolkit" param="padl|${1:csecond}|${2:nsecond}|${3:2}|${0:0}" />
 ]]></content>
 	<tabTrigger>tk-padl</tabTrigger>
+	<description>Toolkit</description>
 	<scope>text.html.mvt - source.mvt - string</scope>
 </snippet>

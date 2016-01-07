@@ -3,5 +3,6 @@
 <mvt:item name="toolkit" param="bestseller|${1:pcount}|${2:g.Category_Code}|${3:5}|${0:1}" />
 ]]></content>
 	<tabTrigger>tk-bestseller</tabTrigger>
+	<description>Toolkit</description>
 	<scope>text.html.mvt - source.mvt - string</scope>
 </snippet>

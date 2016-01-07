@@ -3,5 +3,6 @@
 <mvt:item name="toolkit" param="render|${0:MINI}" />
 ]]></content>
 	<tabTrigger>tk-render</tabTrigger>
+	<description>Toolkit</description>
 	<scope>text.html.mvt - source.mvt - string</scope>
 </snippet>

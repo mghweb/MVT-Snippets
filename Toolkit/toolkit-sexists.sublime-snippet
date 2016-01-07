@@ -3,5 +3,6 @@
 <mvt:item name="toolkit" param="sexists|${1:vpath}|${0:filename}" /> 
 ]]></content>
 	<tabTrigger>tk-sexists</tabTrigger>
+	<description>Toolkit</description>
 	<scope>text.html.mvt - source.mvt - string</scope>
 </snippet>

@@ -3,5 +3,6 @@
 <mvt:item name="toolkit" param="vproduct_find|${1:productfound}|${0:Product_Code}" />
 ]]></content>
 	<tabTrigger>tk-vproduct_find</tabTrigger>
+	<description>Toolkit</description>
 	<scope>text.html.mvt - source.mvt - string</scope>
 </snippet>

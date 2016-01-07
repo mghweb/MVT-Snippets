@@ -3,5 +3,6 @@
 <mvt:item name="toolkit" param="vassign|${1:product_name}|${0:l.all_settings:product:name}" />
 ]]></content>
 	<tabTrigger>tk-vassign</tabTrigger>
+	<description>Toolkit</description>
 	<scope>text.html.mvt - source.mvt - string</scope>
 </snippet>

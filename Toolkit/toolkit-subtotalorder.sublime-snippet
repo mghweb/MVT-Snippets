@@ -3,5 +3,6 @@
 <mvt:item name="toolkit" param="subtotalorder|${0:ordersubtotal}" />
 ]]></content>
 	<tabTrigger>tk-subtotalorder</tabTrigger>
+	<description>Toolkit</description>
 	<scope>text.html.mvt - source.mvt - string</scope>
 </snippet>
