@@ -1,11 +1,11 @@
 <!-- REPLACES `mvt:var_dump` -->
 <snippet>
 	<content><![CDATA[
-<mvt:assign name="g.DEBUG" value="miva_array_serialize( ${1:variable} )" />
+<mvt:assign name="g.mvt_debug" value="miva_array_serialize( ${1:variable} )" />
 <!--
 @@${1/(l\.(settings:?)?|g\.|s\.)([a-zA-Z0-9:_\.\[\]]*)/$3/g}
 ===${1/./=/g}
-&mvt:global:DEBUG;
+&mvt:global:mvt_debug;
 -->
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
