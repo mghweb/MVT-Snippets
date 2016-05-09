@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<mvt:assign name="${1:g.variable}" value="${1:g.variable} \$ $2" />
+<mvt:assign name="${1:g.variable}" value="${1:g.variable} ${2:\$} ${3:l.variable}" />
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>mvt:concat</tabTrigger>
